@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AuthenticationMethod</key>
+			<string></string>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>Interface</key>
+			<string>BuiltInWireless</string>
+			<key>Password</key>
+			<string>aiafgdonjgwkqclt</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (LCIS-NETWORK)</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.hawking.lcis.bs.c32e8730-f657-0131-e3c3-10ddb1cd5e64.alacarte.interfaces.f104de90-f657-0131-e3c5-10ddb1cd5e64</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>f104de90-f657-0131-e3c5-10ddb1cd5e64</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>LCIS-NETWORK</string>
+			<key>SetupModes</key>
+			<array/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>WiFi settings for LCIS-NETWORK</string>
+	<key>PayloadDisplayName</key>
+	<string>Settings for LCIS-NETWORK Students</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.hawking.lcis.bs.c32e8730-f657-0131-e3c3-10ddb1cd5e64.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>Lyford Cay International School</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>c32e8730-f657-0131-e3c3-10ddb1cd5e64</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

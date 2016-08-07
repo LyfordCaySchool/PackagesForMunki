@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>PayloadVersion</key><integer>1</integer><key>PayloadContent</key><array><dict><key>PayloadVersion</key><integer>1</integer><key>PayloadDisplayName</key><string>Root certificate for Lyford Cay International School</string><key>PayloadIdentifier</key><string>com.apple.ssl.certificate</string><key>PayloadType</key><string>com.apple.security.root</string><key>PayloadContent</key><data>MIIEajCCA1KgAwIBAgIBATALBgkqhkiG9w0BAQswgZkxKzApBgNVBAMMIkx5Zm9y
+ZCBDYXkgSW50ZXJuYXRpb25hbCBTY2hvb2wgQ0ExKDAmBgNVBAoMH0x5Zm9yZCBD
+YXkgSW50ZXJuYXRpb25hbCBTY2hvb2wxJTAjBgNVBAsMHE1BQ09TWCBPcGVuRGly
+ZWN0b3J5IFJvb3QgQ0ExGTAXBgkqhkiG9w0BCQEWCmNhQGxjaXMuYnMwHhcNMTMw
+NjE5MTkxNzQxWhcNMTgwNjIwMTkxNzQxWjCBmTErMCkGA1UEAwwiTHlmb3JkIENh
+eSBJbnRlcm5hdGlvbmFsIFNjaG9vbCBDQTEoMCYGA1UECgwfTHlmb3JkIENheSBJ
+bnRlcm5hdGlvbmFsIFNjaG9vbDElMCMGA1UECwwcTUFDT1NYIE9wZW5EaXJlY3Rv
+cnkgUm9vdCBDQTEZMBcGCSqGSIb3DQEJARYKY2FAbGNpcy5iczCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALCpK9JdLODXIy6QVgIzQXVPyMBiM97DES5r
+kFrCMg070nFdpg3n4tGq8oCV97DbKPc+Uix7V+zc4ha5L7KhB4cpuoOjW4WG8fB9
+efz0OjKnwU4YA83SH4kKDJar3A3tEQF5sGu1AGPQlReIwbB2BNh0hl/6uS1rPO4q
+UM6/FPt+9sCP5m52dVhoKFMM+lIigvCuJM9n0CVGclKsvSPLAiJrucyDbrh1s9LY
++G6B8T4tvmNqXOp2VlvUiQq+PDWYEw41ZWjGNosaRSa+ayb4SZTczcJOqYwLQBRl
+zH+YYiOoO5hHUHhpEucNQQmG44P71jDkjfE11cBWTfWajomVTh8CAwEAAaOBvDCB
+uTAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAwBgNVHSUBAf8EJjAk
+BggrBgEFBQcDAQYJKoZIhvdjZAQDBgcrBgEFAgMFBgRVHSUAMGQGA1UdHwRdMFsw
+WaBXoFWGU2h0dHA6Ly9laW5zdGVpbi5sY2lzLmJzOjE2NDAvcmZjMjU4NS9MeWZv
+cmQlMjBDYXklMjBJbnRlcm5hdGlvbmFsJTIwU2Nob29sJTIwQ0EuY3JsMA0GCSqG
+SIb3DQEBCwUAA4IBAQBEGhIlHpsJUSkx2/GsC8Oz6Ocr/sU9aWu+ONEpj7gK9u6M
+Q4dCOlz37YncV+RKoQQMSSLdaMrneFMHICYrRxRLidViF9p71hWlvDXf/mvwMJrQ
+fQ9yeRM0errKaDFbFO7BLzbkVWgqlLK7UmX5GIQ670gHRVv71BiIA20dBgliWKUh
+sMvQ6pVDDljQChRdBH7WN6rD61z/Chv/JthEOmyWfN05CMrKrXsZJrZ0pTP+79mz
+zvbTdbY/K91YtCDuvoYkQnur5JP7XbBD8H3znfPbqdXt6GsFcSxCi0j9QvEDu6vA
+fQFxs30i/UBVIj3ilB+wP9WYnqdCSx1+8CLCvZ7Y
+</data><key>PayloadOrganization</key><string>Lyford Cay International School</string><key>PayloadDescription</key><string>Installs the Root certificate for Lyford Cay International School.</string><key>PayloadUUID</key><string>50CB47AD-D491-44DF-B46E-7F7DD800560C</string></dict></array><key>PayloadIdentifier</key><string>com.apple.config.hawking.lcis.bs.ssl</string><key>PayloadDescription</key><string>Configures your device to trust the Profile Manager server.</string><key>PayloadScope</key><string>System</string><key>PayloadType</key><string>Configuration</string><key>PayloadUUID</key><string>844932e0-f660-0131-e3c8-10ddb1cd5e64</string><key>PayloadDisplayName</key><string>Trust Profile for Lyford Cay International School</string></dict></plist>
