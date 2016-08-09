@@ -760,10 +760,12 @@
 									<key>HIDDEN</key>
 									<false/>
 									<key>STATE</key>
-									<integer>1</integer>
+									<integer>0</integer>
 								</dict>
 								<key>PACKAGE_UUID</key>
 								<string>11785348-5B5F-4A0A-8049-20C873CEC3D4</string>
+								<key>REQUIREMENTS</key>
+								<array/>
 								<key>TITLE</key>
 								<array/>
 								<key>TOOLTIP</key>
